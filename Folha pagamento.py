@@ -36,21 +36,6 @@ else:
 if vale == "s" or vale == "S":
     valVale = salarioL*0.06
     print (f"Desconto do vale transporte é de R${valVale}")
-    salarioL = salarioL - valVale
+    salarioL = salarioB - valVale
     print ("Seu salário liquído é de: R$", salarioL)
     
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
-
